@@ -1,3 +1,4 @@
+COMMIT:
 1 - Clona o repositorio : git clone url_do_repositorio
 
 2 - Verifique se o arquivo foi modificado : git status  // modified vermelho
@@ -11,6 +12,10 @@
 6 - Entre no programa do git : git push
 
 7 - Vai em token, cola o token e envia
+
+Atualizando o repositorio ao inves de baixar novamente: 
+
+dentro da pasta abra o gitbash e execute : git pull // Serve para atualizar o repositorio dentro da pasta
 
 
 Explicações :
