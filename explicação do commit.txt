@@ -1,0 +1,22 @@
+1 - Clona o repositorio : git clone url_do_repositorio
+
+2 - Verifique se o arquivo foi modificado : git status  // modified vermelho
+
+3 - Adicionar modificação : git add . 
+
+4 - Verificar se adicionou a modificação  : git status // modified verde
+
+5 - Criar (nomear) um commit : git commit -m "nome_do_commit" // se der erro execute o codigo.
+
+6 - Entre no programa do git : git push
+
+7 - Vai em token, cola o token e envia
+
+
+Explicações :
+
+	Como pegar o token ? // No githum.com va em settings, developer 		settings, personal acces tokens, tokens(classic), gera um novo token 		e copie.
+
+	Erro no git commit -m "nome_do_commit". Caso de erro execute os 		seguintes codigos:
+  	git config --global user.email "you@example.com"
+  	git config --global user.name "Your Name"
